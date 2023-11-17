@@ -1,0 +1,24 @@
+.sec{
+    height:85vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con2{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 70vh;
+    width: 95%;
+}
+.secimg{
+    height:400px;
+    width:auto ;
+    position: relative;
+}
+.text2{
+    width: 50%;
+    color:#f5f6fa;
+}

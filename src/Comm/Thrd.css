@@ -1,0 +1,24 @@
+.thrd{
+    height:90vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thrd3{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 70vh;
+    width: 95%;
+}
+.img33{
+    height:300px;
+    width:auto ;
+    position: relative;
+}
+.text3{
+    color:#f5f6fa;
+    width:45%;
+}

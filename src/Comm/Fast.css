@@ -1,0 +1,33 @@
+.fast{
+    height:85vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.con{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 70vh;
+    width: 95%;
+    
+   
+}
+.fastimg{
+    height:300px;
+    width:auto ;
+    position: relative;
+}
+.h1fast{
+    color: white;
+    font-size: 43px;
+    font-weight:800;
+    
+    
+}
+.pfast{
+    color: white;
+}

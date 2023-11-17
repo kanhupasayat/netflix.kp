@@ -1,0 +1,24 @@
+.for{
+    height:85vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.for4{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 70vh;
+    width: 95%;
+}
+.text4{
+    color: white;
+    width: 40%;
+}
+.img44{
+    height:350px;
+    width:auto ;
+    position: relative;
+}
